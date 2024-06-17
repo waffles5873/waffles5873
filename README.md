@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **CSS & JavaScript**
 
-⚡ Fun fact **The last time the Chicago Bears beat the Green Bay Packers was December 16th, 2018**
+⚡ Fun fact **the last time the Chicago Bears beat the Green Bay Packers was December 16th, 2018**
 
 📫 Contact me via **Discord (@ohwaffles)**
 
