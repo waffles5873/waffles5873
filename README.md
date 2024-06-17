@@ -10,8 +10,6 @@
 
 <div align="center">
  
- 🔭 Always looking to **broaden my knowledge as a developer**
- 
  🌱 I’m currently learning **CSS & JavaScript**
 
 ⚡ Fun fact **the last time the Chicago Bears beat the Green Bay Packers was December 16th, 2018**
