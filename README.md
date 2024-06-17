@@ -16,7 +16,7 @@
 
 ⚡ Fun fact **The last time the Chicago Bears beat the Green Bay Packers was December 16th, 2018**
 
-📫 Contact me via Discord (@ohwaffles) 
+📫 Contact me via **Discord (@ohwaffles)**
 
  </div>
 
